@@ -16,3 +16,8 @@
   Better Money Habits.\
   _Discussion of one of the best metaphor in our industry. Types of TD, why it's
   danger, ways to identify it, ways to fix it._
+* [Externalizing Configuration](doc/Externalizing-Configuration.pptx).
+  _Story about externalizing and centralizing configurations of
+  different applications and services._
+* [Migration to CodeArtifact](doc/CodeArtifact-Migration.pptx).
+  _Story about migration from Artifactory to AWS CodeArtifact._
