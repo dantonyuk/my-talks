@@ -1,4 +1,4 @@
-# My Talks in Hyla
+# My Talks
 
 * [Java Generics](https://github.com/dantonyuk/java-generics-presentation).
   What they are and how to cook them.\
@@ -21,3 +21,5 @@
   different applications and services._
 * [Migration to CodeArtifact](doc/CodeArtifact-Migration.pptx).
   _Story about migration from Artifactory to AWS CodeArtifact._
+* [Persistence Design](doc/PersistenceDesign.pptx).
+  _How to design composable and low-coupled non-Hibernate persistence._
